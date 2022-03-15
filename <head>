@@ -1,0 +1,366 @@
+<head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<link rel="icon" href="https://cdn.discordapp.com/attachments/714961419677728875/805384000578256936/tumblr_inline_nprr35SMQ51r1p3y1_75sq.png" type="image/gif" >
+
+    <script language="JavaScript">   
+var space = " ";
+var speed = "60";
+var pos = 0;
+var msg = "Wicked WORLDS NFT         ";
+function Scroll()
+{
+document.title = msg.substring(pos, msg.length) + space + msg.substring(0,pos);
+pos++;
+if (pos > msg.length) pos = 0;
+window.setTimeout("Scroll()", speed);
+}
+Scroll();
+</script>
+
+<title>Wicked Worlds NFT</title>
+<style>
+body {
+background-image: url(bg1.gif);
+background-repeat: repeat;
+cursor: url(https://cdn.discordapp.com/attachments/714961419677728875/805178887923302400/napster.png), auto;
+border:9px black ridge;
+margin: 0px auto; /* <-- here */
+}
+
+ @font-face { font-family: mb; src: url('Stencil8bit-Regular.otf'); } 
+ @font-face { font-family: graph; src: url('adrip1.ttf'); } 
+
+.main {
+background-color: #000;
+border-color: #fff;
+border-width: 1px;
+border-style: solid;
+color: #fff;
+text-align: center;
+font-family: monospace;
+font-smooth: 0em;
+width: 820px;
+padding-top: 0px;
+padding-bottom: 8px;
+margin: 0px auto;
+margin-right: 266px;
+}
+
+.stamps {
+background-color: #000;
+border-color: #fff;
+border-width: 1px;
+border-style: solid;
+text-align: center;
+margin: auto;
+margin-right: 266px;
+padding-left:10px;
+padding-right:11px;
+}
+
+.tracktitle {
+background-color: #000;
+border-color: #fff;
+border-width: 1px;
+border-style: solid;
+color: #fff;
+font-size: x-small;
+padding: 10px;
+margin: auto;
+margin-top: 0px;
+}
+
+.nav {
+background-color: #000;
+border-color: #fff;
+border-width: 1px;
+border-style: solid;
+font-family: monospace;
+color: #fff;
+padding: 0px;
+float: right;
+}
+
+.footer {
+background-color: #0000EE;
+border-color: #000;
+border-width: 1px;
+border-style: solid;
+font-family: monospace;
+color: #fff;
+text-align: center;
+width: 820px;
+margin: 0px auto;
+margin-right: 266px;
+}
+
+.audioplayer {
+height: 0px;
+}
+
+.flag {
+width: 40px;
+height: 20px;
+box-shadow: 4px 4px #fff;
+}
+
+.socials {
+width: 40px;
+height: 40px;
+box-shadow: 2px 4px #000;
+}
+
+h1, h2, h3, h4 {
+font-family: mb;
+font-size: 28px;
+padding: 10px;
+margin-bottom: 0;
+margin-top: 0;
+}
+
+.sidebarhead {
+color: #fff;
+text-align: center;
+font-size: 54px;
+letter-spacing: 7px;
+padding: 0px;
+margin-bottom: 0;
+margin-top: 16;
+}
+
+.fakead {
+background-color: #000;
+font-family: monospace;
+color: #fff;
+border-color: #fff;
+border-width: 1px;
+border-style: solid;
+float: left;
+padding-bottom:7px;
+}
+
+#overlay{
+width:260px;
+position:absolute;
+bottom:0;
+right: 0;
+float:right;
+text-align: right;
+}
+
+.button {
+text-align: center;
+margin: 0px auto;
+}
+
+.brightness1 {
+    background-color: #000;
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.brightness img:hover {
+    opacity: .6;
+}
+
+.footerbrightness {
+background-color: #000;
+}
+
+p {
+  font-family: mb;
+}
+
+.home {
+  font-family: graph;
+  font-size: 58px;
+  padding-top: 8px;
+  padding-bottom: none;
+  display:inline;
+  letter-spacing: 2px;
+}
+
+    .imgbutton {
+	-webkit-filter: brightness(100%) grayscale(0%) sepia(0%) hue-rotate(360deg) saturate(100%) contrast(1);
+	filter: brightness(100%) grayscale(0%) sepia(0%) hue-rotate(360deg) saturate(100%) contrast(1);
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+    }
+  
+      .imgbutton:hover {
+-webkit-filter: invert(100%);
+	-webkit-transition: 0.6s;
+	transition: 0.6s;
+</style>
+</head>
+<body>
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/805714307257991208/bloodsplatter.png" id="overlay"/>
+    <audio loop="off" autoplay="on">
+  <source src="https://www.dropbox.com/s/4jtrznarlofqnnx/Blur - Song 2.mp3?raw=1" type="audio/mp3">
+</audio>
+</div>
+<div class="tracktitle">
+TRACK PLAYING: <marquee direction = "right">Blur - Song 2</marquee>
+</div>
+<div class="nav">
+<h1 class="sidebarhead">LINKS</h1>
+<div class="imgbutton"><a href=""><img src="https://cdn.discordapp.com/attachments/714961419677728875/805648721722343424/blog.png"></a></div>
+<div class="imgbutton"><a href=""><img src="https://cdn.discordapp.com/attachments/714961419677728875/805632386968322088/characters.png"></a></div>
+<div class="imgbutton"><a href=""><img src="https://cdn.discordapp.com/attachments/714961419677728875/805656388981227530/music.png"></a></div>
+<div class="imgbutton"><a href=""><img src="https://cdn.discordapp.com/attachments/714961419677728875/805673095783645195/software.png"></a></div>
+<div class="imgbutton"><a href=""><img src="https://cdn.discordapp.com/attachments/714961419677728875/805627220466073621/flash.png"></a></div>
+<div class="imgbutton"><a href=""><img src="https://cdn.discordapp.com/attachments/714961419677728875/805389774092894218/neocities.png"></a></div>
+<div class="imgbutton"><a href="https://bootkit.neocities.org/spacehey/spacehey.html"><img src="https://cdn.discordapp.com/attachments/714961419677728875/805376123344912394/spacehey.png"></a></div>
+<div class="imgbutton"><a href="https://bootkit.neocities.org/spacehey/spacehey.html"><img src="https://cdn.discordapp.com/attachments/714961419677728875/805662444323864626/netart.png"></a></div>
+</div>
+<div class="fakead">
+<div class="imgbutton"><a href="https://timetraveler.ytmnd.com/"><img src="https://cdn.discordapp.com/attachments/714961419677728875/805679402565632002/200px-Timetraveler.png" width="241"></a></div>
+<div class="imgbutton"><a href="https://www.youtube.com/watch?v=aK0XqK9mbMk"><img src="https://cdn.discordapp.com/attachments/714961419677728875/805682135565729793/unknown.png" height="240" width="280"></a></div>
+<img class="button" src=></a>
+<br>
+<sub>69 We will become the next Nansen 69</sub>
+</div>
+</div>
+<div class="main">
+<br>
+<h1 class="home"> Wicked Worlds NFT</h1>
+<h3>Welcome To My Loving Wicked World.</h3>
+<p>Hi, I'm Piranha Chuck. Here you can find some cool internet stuff i've created or compiled, whether it be software, hoards of faux-nostalgic internet things, maybe even both. More importantly it is time to mint the next leading NFT research tool.The first 1696 are free. <img src="https://cdn.discordapp.com/attachments/714961419677728875/805321833532489738/nirvana.gif"></p>
+<p style="line-height:2;margin-top:0;margin-bottom:0;">The index is to the right, blinkies/buttons are below, and some old memes are sitting on the left. We will use the moon as our bathroom break, and since elon has conquered mars, we are forced to go intergalactic! </p>
+
+<h3></h3>
+</head> 
+
+</html>                                    
+ 
+<head> 
+
+    <title> 
+
+        Create an HTML button that 
+
+        acts like a link 
+
+    </title> 
+
+      
+
+    <!-- Style to create button -->
+
+    <style> 
+
+        .gfg { 
+
+        background-color: white; 
+
+        border: 2px solid black; 
+
+        color: black; 
+
+        padding: 5px 10px; 
+
+        text-align: center; 
+
+        display: inline-block; 
+
+        font-size: 20px; 
+
+        margin: 10px 30px; 
+
+        cursor: pointer; 
+
+        } 
+
+    </style> 
+
+</head> 
+
+  
+
+<body> 
+
+    <h1>Join the Revolution</h1> 
+
+      
+
+    <!-- Create a form then add button 
+
+        inside the form -->
+
+    <form action="wickedworldsnft.app"> 
+
+        <button class = "gfg" type="submit"> 
+
+            Mint Here 
+
+        </button> 
+
+    </form> 
+
+</body> 
+
+
+<h3>WEB GRAFITTI</h3></div>
+<div class="stamps" style="width:799px;height:169px;overflow-y:auto;&#10;&lt;/div&gt;&#10;&lt;/sub&gt;&lt;/h6&gt;&lt;/blockquote&gt;&lt;/tagd41c0&gt;margin:auto;>
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/805297773481689108/midi_files_now.gif">
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/805297710076526602/got_html.gif">
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/805297780372537344/ms_animated.gif">
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/805297824023576596/piracy.gif">
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/805138963018154035/eva_88x31.gif">
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/805138957355712592/geoanime.gif">
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/800565532746317824/angelfire.gif">
+<img src="https://shishka.neocities.org/shishka/img/blinkies/53.gif">
+<br>
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/820086043549499412/neopets_88x31.gif">
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/820089178460389427/ffr.png">
+<img src="https://y2k.neocities.org/buttons/lol.gif">
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/800568150612770826/keyboardcat.png">
+<img src="https://y2k.neocities.org/buttons/akageobutton2.gif">
+<img src="http://cyber.dabamos.de/88x31/ab03.gif">
+<img src="https://y2k.neocities.org/buttons/anybrow.gif">
+<img src="https://nikutrax.neocities.org/assets/buttons/sites/walisten_20000510.gif">
+<br>
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/800564915478986802/lapfoxgrad.gif">
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/800565529345523732/gethtmlnow.gif">
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/800563601281646622/niku.png">
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/800563602183421972/neocities.gif">
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/800563605833121802/notepad.gif">
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/800563604843397160/nikutrax.png">
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/800563603299106826/imissxp.gif">
+<img src="https://shishka.neocities.org/shishka/img/buttons/11.gif">
+<br>
+<img src="https://yupthatsme.neocities.org/psbutton.gif">
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/800563599486484480/tumblr_3516821702f546d98b9a42768298cad7_18dee2c0_250.png">
+<img src="https://anlucas.neocities.org/ada.gif">
+<img src="https://shishka.neocities.org/shishka/img/blinkies/8.gif">
+<img src="https://carolinedeleted.neocities.org/bookmark_this_page.gif">
+<img src="https://shishka.neocities.org/shishka/img/buttons/96.gif">
+<img src="https://shishka.neocities.org/shishka/img/buttons/119.gif">
+<img src="https://shishka.neocities.org/shishka/img/buttons/3.gif">
+<br>
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/805297914082492426/ninblinky.gif">
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/805306953751330816/black-cats-are-lucky.gif">
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/805307339766759424/blnk_7.gif">
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/805306981564416000/512587ffyuc549yq.gif">
+<img src="https://shishka.neocities.org/shishka/img/blinkies/110.gif">
+<br>
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/805306982650740747/1487314wmyxva2jyl.gif">
+<img src="https://shishka.neocities.org/shishka/img/blinkies/118.gif">
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/793861872491167764/dch1zk7-55e49ec1-9214-43bf-b09b-f1875849c393.gif">
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/793642818336981022/lain_blinkie.gif">
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/820068362528489493/ce2d2c928f76e1ed4070ab6a3a470eb0.gif">
+<br>
+<img src="http://dl4.glitter-graphics.net/pub/1487/1487294y2xy3722r9.gif">
+<img src="https://shishka.neocities.org/shishka/img/blinkies/18.gif">
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/805307414022455326/tumblr_inline_puk1n3RFic1wda5dc_500.gif">
+<img src="https://shishka.neocities.org/shishka/img/blinkies/37.gif">
+<img src="https://cdn.discordapp.com/attachments/714961419677728875/793863229079814178/ezgif.com-gif-maker7.gif">
+<br>
+<img src="https://shishka.neocities.org/shishka/img/blinkies/96.gif">
+</div>
+<div class="footer">
+
+<sub></sub>
+</div>
+</html>
